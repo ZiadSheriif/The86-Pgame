@@ -1,27 +1,27 @@
 <div align="center" >
-  <a href="https://github.com/ZeyadTarekk/The86-Pgame" rel="noopener">
+  <a href="https://github.com/ZiadSheriif/The86-Pgame" rel="noopener">
 
 <img  src="screenshots/banner.png" width="100%;" >
   </a>
 </div>
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ZeyadTarekk/The86-Pgame)](https://github.com/ZeyadTarekk/The86-Pgame/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/ZeyadTarekk/The86-Pgame)](https://github.com/ZeyadTarekk/The86-Pgame/issues)
-[![GitHub license](https://img.shields.io/github/license/ZeyadTarekk/The86-Pgame)](https://github.com/ZeyadTarekk/The86-Pgame/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/ZeyadTarekk/The86-Pgame)](https://github.com/ZeyadTarekk/The86-Pgame/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/ZeyadTarekk/The86-Pgame)](https://github.com/ZeyadTarekk/The86-Pgame/stargazers)
-[![GitHub Language](https://img.shields.io/github/languages/top/ZeyadTarekk/The86-Pgame)](https://github.com/ZeyadTarekk/The86-Pgame)
+[![GitHub contributors](https://img.shields.io/github/contributors/ZiadSheriif/The86-Pgame)](https://github.com/ZiadSheriif/The86-Pgame/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/ZiadSheriif/The86-Pgame)](https://github.com/ZiadSheriif/The86-Pgame/issues)
+[![GitHub license](https://img.shields.io/github/license/ZiadSheriif/The86-Pgame)](https://github.com/ZiadSheriif/The86-Pgame/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/ZiadSheriif/The86-Pgame)](https://github.com/ZiadSheriif/The86-Pgame/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/ZiadSheriif/The86-Pgame)](https://github.com/ZiadSheriif/The86-Pgame/stargazers)
+[![GitHub Language](https://img.shields.io/github/languages/top/ZiadSheriif/The86-Pgame)](https://github.com/ZiadSheriif/The86-Pgame)
 
 </div>
 
 # 📝 Tables of Contents <a name = "contents"></a>
 
-- [Tables of Contents](#contents)
-- [The86-Pgame](#game)
-- [How to run?](#run)
-- [Game rules](#rules)
-- [Screenshots](#screenshots)
+- [📝 Tables of Contents <a name = "contents"></a>](#-tables-of-contents-)
+- [📙 The86-Pgame <a name = "game"></a>](#-the86-pgame-)
+- [🏁 How to run? <a name = "run"></a>](#-how-to-run-)
+- [📱 Game rules <a name = "rules"></a>](#-game-rules-)
+- [📷 Screenshots <a name = "screenshots"></a>](#-screenshots-)
   - [Name screen](#name-screen)
   - [Main Menu](#main-menu)
   - [Chat Menu](#chat-menu)
@@ -47,7 +47,7 @@ To run the game you need a DOS emulator, you can use [DOSBOX](https://www.dosbox
 3. Start the game on each device
 
    - ```sh
-     $ git clone https://github.com/ZeyadTarekk/The86-Pgame.git
+     $ git clone https://github.com/ZiadSheriif/The86-Pgame.git
      ```
    - ```sh
      $ cd The86-Pgame
@@ -119,7 +119,7 @@ To run the game you need a DOS emulator, you can use [DOSBOX](https://www.dosbox
 
 # Single PC version
 
-You can find a multiplayer version that runs on only one PC instead through [this commit](https://github.com/ZeyadTarekk/The86-Pgame/tree/800e80c6c5c2d9a6c2e38570a385eb96d9b0efc7).
+You can find a multiplayer version that runs on only one PC instead through [this commit](https://github.com/ZiadSheriif/The86-Pgame/tree/800e80c6c5c2d9a6c2e38570a385eb96d9b0efc7).
 
 The controls are WASD for one player and arrows for the other.
 
@@ -128,7 +128,7 @@ The controls are WASD for one player and arrows for the other.
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/ZeyadTarekk" target="_black">
+    <a href="https://github.com/ZiadSheriif" target="_black">
     <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
     <br />
     <sub><b>Zeyad Tarek</b></sub></a>
@@ -158,4 +158,4 @@ The controls are WASD for one player and arrows for the other.
 
 # License
 
-> This software is licensed under MIT License, See [License](https://github.com/ZeyadTarekk/The86-Pgame/blob/main/LICENSE) for more information ©ZeyadTarekk.
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/The86-Pgame/blob/main/LICENSE) for more information ©ZiadSheriif.
