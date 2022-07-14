@@ -158,4 +158,4 @@ The controls are WASD for one player and arrows for the other.
 
 # License
 
-> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/The86-Pgame/blob/main/LICENSE) for more information ©ZiadSheriif.
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/The86-Pgame/blob/main/LICENSE) for more information ©ZiadSherif.
